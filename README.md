@@ -40,11 +40,4 @@ Grad student in Information Systems at California State University, Long Beach, 
 
 ---
 
-#### GitHub stats
-
-![Ojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ojas-suratkar&show_icons=true&theme=default&hide_title=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-suratkar&layout=compact)
-
----
-
 📫 Reach me on [GitHub](https://github.com/Ojas-suratkar)
