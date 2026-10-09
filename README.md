@@ -39,6 +39,9 @@ AI Engineer at the CSULB Office of Institutional Research and Analytics, and an 
 **[Wage Gap Insights](https://github.com/Ojas-suratkar/Gender-Wage-Gap-Analysis)** — An econometric study of the gender wage gap over a 24-year labour panel, built at the LMU Datathon. Job- and industry-fixed-effects models over ~170,000 NLSY97 job observations isolate a 10.2% female wage penalty (p < 0.001), with California's 2018 salary history ban simulated as a counterfactual.
 `Python` `Pandas` `statsmodels` `Chart.js`
 
+**[SignSpeak](https://github.com/Ojas-suratkar)** — A computer vision system that translates static sign language gestures into real-time text, built for hearing and speech impaired users. Low-latency webcam capture in OpenCV, 21 hand landmarks per frame from MediaPipe Hands, and a random forest classifier over landmark data recognising the static alphabet A to Z, with predictions rendered live over the camera feed.
+`Python` `OpenCV` `MediaPipe` `scikit-learn` `NumPy` `Tkinter`
+
 **[Fake News Detector](https://github.com/Ojas-suratkar/fake-news-detector)** — An end-to-end NLP pipeline that classifies news articles as fake or real: preprocessing and feature extraction, training and evaluation against held-out data, shipped as both a CLI predictor and a Streamlit app.
 `Python` `scikit-learn` `NLTK` `Streamlit`
 
